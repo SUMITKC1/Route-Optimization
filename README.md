@@ -13,17 +13,16 @@ A modern, full-stack web application for optimizing travel routes with a beautif
 - **Live Address Labels:** All points are labeled with real addresses using reverse geocoding.
 - **Responsive UI:** Clean, animated, and mobile-friendly design.
 - **Profile Management:** Update username, email, password, and avatar.
-- **Dark/Light Theme:** Modern look and feel.
 
 ---
 
 ## 🛠️ Tech Stack
 
-- **Frontend:** React, TypeScript, Tailwind CSS, framer-motion
+- **Frontend:** React, TypeScript, Tailwind CSS
 - **Backend:** Node.js, Express, TypeScript, Mongoose
 - **Database:** MongoDB
 - **Maps & Geocoding:** Google Maps API, OpenStreetMap Nominatim
-- **Authentication:** JWT (JSON Web Tokens)
+- **Authentication:** JWT (JSON Web Tokens),Google OAuth
 
 ---
 
