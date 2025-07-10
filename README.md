@@ -30,12 +30,16 @@ A modern, full-stack web application for optimizing travel routes with a beautif
 
 ### Login Page
 <img width="1920" height="1080" alt="login" src="https://github.com/user-attachments/assets/0780849c-b996-4eff-b020-c33372527485" />
+
 ### Signup Page
 <img width="1920" height="1080" alt="signup" src="https://github.com/user-attachments/assets/0a30026c-8371-4145-8cb5-db543f248f22" />
+
 ### Landing Page
 <img width="1920" height="1080" alt="landing (5)" src="https://github.com/user-attachments/assets/f632f95d-28c8-4b5e-a92a-91092c3b75e7" />
+
 ### Journey Page
 <img width="1920" height="1080" alt="journey" src="https://github.com/user-attachments/assets/871d974e-f6b3-4a80-a891-62379fc4ec36" />
+
 ### History Page
 <img width="1920" height="1080" alt="history (2)" src="https://github.com/user-attachments/assets/2522c1f0-b471-49ad-89d8-742d03571a20" />
 
