@@ -30,6 +30,8 @@ A modern, full-stack web application for optimizing travel routes with a beautif
 
 ### Login Page
 ![Login Page](C:\Users\sumit\OneDrive\Desktop\PC\SDE Projects\Pics for readme github\route optimization\login)
+<img width="1920" height="1080" alt="login" src="https://github.com/user-attachments/assets/0780849c-b996-4eff-b020-c33372527485" />
+
 
 ### Signup Page
 ![Signup Page](client/public/images/signupPage.png)
